@@ -1,0 +1,18 @@
+* {
+    color: white;
+}
+
+div {
+    background-color: red;
+    width: fit-content;
+}
+
+p {
+    background-color: green;
+    width: fit-content;
+}
+
+button {
+    background-color: goldenrod;
+    width: fit-content;
+}
